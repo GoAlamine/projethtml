@@ -1,0 +1,81 @@
+ 
+
+nav a {
+float: right;
+text-decoration: none;
+color: rgb(217, 213, 208);
+background: #000000;
+height: 36px;
+line-height: 33px;
+padding: 0 10px;
+font-family: 'Roboto';
+font-size: 13px;
+}
+nav a:hover{
+    background: #37aa23;
+}
+
+form fieldset legend {
+    color: rgb(164, 5, 5);
+    font-style: unset;
+}
+.mypropos {
+    font-style: italic;
+}
+
+form fieldset h1 {
+    color: rgb(9, 3, 15);
+}
+
+img {
+   width: 700px; 
+ 
+}
+
+form {
+    float: left;
+    width: 100;
+}
+
+input {
+    width: 15%;
+    padding: 5px 13px;
+    margin: 5px 0;
+    box-sizing: border-box;
+}
+
+button:hover {
+    
+    background:#37aa23;
+   
+}
+
+button {
+   
+    width: 100px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px; 
+    background:  #006622;
+    font-size: 16px;
+    color: #fff;
+}
+.btn {
+    text-align: left;
+}
+
+fieldset {
+    width: 57%;
+   
+}
+.myform {
+    text-align: center;
+}
+
+.mydiv1 {
+    display: flex;
+    justify-content: center;
+}
+form {
+    width: 120%;    
+}
